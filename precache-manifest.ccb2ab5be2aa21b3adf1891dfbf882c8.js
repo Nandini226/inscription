@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "856f506df7abb75eeb117a4655989cae",
+    "revision": "4110db9e24c3eb228a1f44076c328df1",
     "url": "/inscription/index.html"
   },
   {
-    "revision": "6e756d3437860ee4b5de",
-    "url": "/inscription/static/css/main.31334d18.chunk.css"
+    "revision": "4649f099c82d57d43515",
+    "url": "/inscription/static/css/main.cb412c36.chunk.css"
   },
   {
-    "revision": "e4ee038a506a80d4814f",
-    "url": "/inscription/static/js/2.adaa3876.chunk.js"
+    "revision": "ea474d679b6394be622f",
+    "url": "/inscription/static/js/2.2d4ccd12.chunk.js"
   },
   {
     "revision": "be14b386ccc34a49dee76740150eacbc",
-    "url": "/inscription/static/js/2.adaa3876.chunk.js.LICENSE.txt"
+    "url": "/inscription/static/js/2.2d4ccd12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e756d3437860ee4b5de",
-    "url": "/inscription/static/js/main.44c0e6ca.chunk.js"
+    "revision": "4649f099c82d57d43515",
+    "url": "/inscription/static/js/main.23316634.chunk.js"
   },
   {
     "revision": "db19d6963d50c4514c9b",
