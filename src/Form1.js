@@ -13,7 +13,7 @@ function Form1 (props){
     const handleChange = event => setValue(event.target.value);
     return(
         <>
-        <Link to="/"><button class="but"> Go to Home</button></Link>
+        <Link to="/inscription"><button class="but"> Go to Home</button></Link>
         <div>
       <label>
        <p>Write in the text box provided to see the text appearing on the template.</p>
